@@ -1,7 +1,7 @@
 <script>
 	var num = 0;
 	num++;
-	console.log(num);
+	console.log("没用的");
 	var b = document.getElementById("btn");
 	b.html();
 </script>
